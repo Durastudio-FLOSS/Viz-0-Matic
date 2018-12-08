@@ -1,2 +1,2 @@
 # Viz-0-Matic
-Process visualization tools. Node.js, OpenProject, CMS
+Process visualization tools. Viz.js, Node.js, OpenProject, Drupal CMS. 
